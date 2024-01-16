@@ -1,4 +1,3 @@
-Miami Heap
 
 Daniel Dossie
 Anna Giunta
